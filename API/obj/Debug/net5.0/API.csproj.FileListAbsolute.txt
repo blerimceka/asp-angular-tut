@@ -62,3 +62,6 @@ C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\Microsoft.AspNetCore.
 C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\bleri\Documents\DatingAppTut\API\bin\Debug\net5.0\Newtonsoft.Json.dll
